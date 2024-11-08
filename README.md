@@ -6,21 +6,25 @@ If you are aware of additional papers or resources pertinent to this topic, plea
 
 ## Included Papers
 
+Here is an updated list of significant publications in blockchain and cryptocurrency, organized chronologically:
+
+### 1982
+
+1. **The Byzantine Generals Problem**
+   - **Authors:** Leslie Lamport, Robert Shostak, Marshall Pease
+   - **Source:** *ACM Transactions on Programming Languages and Systems*, Vol. 4, No. 3, July 1982, pp. 382–401. [ACM Digital Library](https://dl.acm.org/doi/10.1145/357172.357176)
+
 ### 2008
 
-1. **Bitcoin: A Peer-to-Peer Electronic Cash System**
+2. **Bitcoin: A Peer-to-Peer Electronic Cash System**
    - **Author:** Satoshi Nakamoto
    - **Source:** [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)
 
 ### 2013
 
-2. **Ethereum: A Next-Generation Smart Contract and Decentralized Application Platform**
+3. **Ethereum: A Next-Generation Smart Contract and Decentralized Application Platform**
    - **Author:** Vitalik Buterin
-   - **Source:** [Ethereum Whitepaper](https://ethereum.org/whitepaper/)
-
-3. **CryptoNote v 2.0**
-   - **Author:** Nicolas van Saberhagen
-   - **Source:** [CryptoNote Whitepaper](https://cryptonote.org/whitepaper.pdf)
+   - **Source:** [Ethereum Whitepaper](https://ethereum.org/en/whitepaper/)
 
 ### 2014
 
@@ -49,14 +53,14 @@ If you are aware of additional papers or resources pertinent to this topic, plea
    - **Source:** [arXiv](https://arxiv.org/abs/2006.15918)
 
 9. **Solana: A New Architecture for a High-Performance Blockchain**
-   - **Authors:** Anatoly Yakovenko, Greg Fitzgerald, Raj Gokal, Stephen Akridge, et al.
-   - **Source:** [Solana Whitepaper](https://solana.com/whitepaper)
+    - **Authors:** Anatoly Yakovenko, Greg Fitzgerald, Raj Gokal, Stephen Akridge, et al.
+    - **Source:** [Solana Whitepaper](https://solana.com/solana-whitepaper.pdf)
 
-### 2022
+### 2023
 
 10. **SoK: Not Quite Water Under the Bridge: Review of Cross-Chain Bridge Hacks**
     - **Authors:** Sung-Shine Lee, Alexandr Murashkin, Martin Derka, Jan Gorzny
-    - **Source:** [arXiv](https://arxiv.org/abs/2210.16209)
+    - **Source:** *2023 IEEE International Conference on Blockchain and Cryptocurrency (ICBC)*. [IEEE Xplore](https://ieeexplore.ieee.org/document/10174993) 
    
 Here is the updated list with the new entries added:
 
