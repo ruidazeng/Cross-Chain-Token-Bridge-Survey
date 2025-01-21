@@ -13,7 +13,6 @@ If you are aware of additional papers or resources pertinent to this topic, plea
 3. [IBC (Inter-Blockchain Communication)](#ibc-inter-blockchain-communication)  
 4. [Bridging & Interoperability](#bridging--interoperability)  
 5. [General & Miscellaneous Topics](#general--miscellaneous-topics)  
-6. [License](#license)
 
 ---
 
