@@ -2,8 +2,6 @@
 
 This repository offers a curated collection of scholarly works focusing on security vulnerabilities and notable incidents associated with token bridges and inter-chain messaging systems. The papers cover a wide range of topics, including foundational blockchain theory, consensus mechanisms, interoperability protocols, bridge security analyses, attack detection, and case studies of cross-chain bridge incidents.
 
-If you are aware of additional papers or resources pertinent to this topic, please contribute by submitting a pull request or opening an issue.
-
 ---
 
 ## Table of Contents
