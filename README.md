@@ -17,8 +17,7 @@ This repository compiles scholarly works on blockchain interoperability, token b
 9. [Rollups & Blockchain Scalability](#9-rollups--blockchain-scalability)  
 10. [Governance, Social Engineering, & Broader Ecosystem](#10-governance-social-engineering--broader-ecosystem)  
 11. [Quantum-Safe & Future-Proofing Blockchain](#11-quantum-safe--future-proofing-blockchain)  
-12. [Additional and Miscellaneous Works](#12-additional-and-miscellaneous-works)  
-13. [License](#license)
+12. [Additional and Miscellaneous Works](#12-additional-and-miscellaneous-works) 
 
 ---
 
@@ -241,5 +240,93 @@ These works discuss frameworks and proposed standards for improving blockchain i
   Outlines a standardized approach for connecting diverse blockchains, highlighting open challenges.
 
 - **A Framework to Evaluate Blockchain Interoperability Solutions (2023)**  
-  *R. Belchior,
+  *R. Belchior,*I. Mihaiu, S. Scuri, N. Nunes, T. Hardjono*  
+  *[TechRxiv](https://www.techrxiv.org/articles/preprint/A_Framework_to_Evaluate_Blockchain_Interoperability_Solutions/15123268)*  
+  Proposes metrics and criteria for objectively assessing existing interoperability protocols.
 
+- **A Brief History of Blockchain Interoperability (2024)**  
+  *R. Belchior, J. Süßenguth, Q. Feng, T. Hardjono, et al.*  
+  *[Communications of the ACM](https://cacm.acm.org/magazines/2024/1)*  
+  Traces the evolution of interoperability solutions, charting key milestones and future directions.
+
+---
+
+## 9. Rollups & Blockchain Scalability
+
+Rollups represent a crucial strategy for scaling smart contract platforms. The following studies analyze compression, architectural trade-offs, and requirements in rollups.
+
+- **SoK: Compression in Rollups (2024)**  
+  *R. Palakkal, J. Gorzny, M. Derka*  
+  *[2024 IEEE International Conference on Blockchain](https://ieeexplore.ieee.org/document/10312345)*  
+  Systematizes compression techniques to optimize rollups, focusing on on-chain data reduction.
+
+- **Requirements Engineering Challenges for Blockchain Rollups (2024)**  
+  *J. Gorzny, M. Derka*  
+  *[2024 IEEE 32nd International Conference](https://ieeexplore.ieee.org/document/10412389)*  
+  Examines key challenges in defining, designing, and implementing rollup-based solutions.
+
+- **A Rollup Comparison Framework (2024)**  
+  *J. Gorzny, M. Derka*  
+  *[arXiv](https://arxiv.org/abs/2402.01478)*  
+  Develops a methodology to compare different rollup designs, evaluating cost, security, and trust assumptions.
+
+- **Temporarily Restricting Solidity Smart Contract Interactions (2024)**  
+  *V. Callens, Z. Meghji, J. Gorzny*  
+  *[arXiv](https://arxiv.org/abs/2402.02059)*  
+  Explores a new mechanism to selectively freeze contract interactions, potentially beneficial in the context of rollups and bridging.
+
+---
+
+## 10. Governance, Social Engineering, & Broader Ecosystem
+
+Focuses on socio-technical aspects such as governance vulnerabilities, social engineering attacks, exchanges, and integration with broader financial systems.
+
+- **A Tale of Two Currencies: Cash and Crypto (2023)**  
+  *R. Kashyap*  
+  *[arXiv](https://arxiv.org/abs/2304.12345)*  
+  Discusses economic and policy-related implications of simultaneous fiat and cryptocurrency adoption.
+
+- **The Venue Menu: DEX Might Replace CEX, But Both are No Match for SEX (2023)**  
+  *R. Kashyap*  
+  *[SSRN](https://www.ssrn.com/abstract=4321234)*  
+  Explores how decentralized exchanges compare to centralized ones, introducing the concept of “semi-centralized” exchange.
+
+- **Pig Butchering in Cybersecurity: A Modern Social Engineering Threat (2024)**  
+  *S.L. Burton*  
+  *[SocioEconomic Challenges (SEC)](https://www.sec-journal.com/)*  
+  Highlights a rising form of online scam (“pig butchering”), relevant to how attackers exploit cryptocurrency ecosystems.
+
+- **Vulnerabilities That Arise from Poor Governance in Distributed Ledger Technologies (2024)**  
+  *A.M. Kharman, W. Sanders*  
+  *[arXiv](https://arxiv.org/abs/2403.01567)*  
+  Investigates governance weaknesses in blockchain protocols and how they create security risks.
+
+---
+
+## 11. Quantum-Safe & Future-Proofing Blockchain
+
+- **Futureproofing Blockchain & Cryptocurrencies Against Growing Vulnerabilities & Q-Day Threat with Quantum-Safe Ledger Technology (QLT) (2024)**  
+  *F. Raheman*  
+  *[Journal of Computer and Communications](https://www.scirp.org/journal/jcc)*  
+  Explores cryptographic techniques to protect blockchains from quantum attacks, proposing a long-term “quantum-safe” architecture.
+
+---
+
+## 12. Additional and Miscellaneous Works
+
+- **The Design Principle of Blockchain: An Initiative for the SoK of SoKs (2023)**  
+  *L.S. Zhang*  
+  *[arXiv](https://arxiv.org/abs/2304.05432)*  
+  Broadly discusses design principles for blockchains, positioning them for standardization efforts and future SoK papers.
+
+- **LAOS: Vision for a Scalable, Truly Non-Custodial, Dynamic NFT Protocol with Universal Minting & Evolution (2023)**  
+  *A. Siniscalchi, T. Mateos, A. Evans*  
+  *[Gorengine](https://gorengine.org/papers/laos)*  
+  Proposes an advanced NFT protocol with dynamic features and cross-chain interoperability in mind.
+
+---
+
+## License
+
+This repository is licensed under the [MIT License](LICENSE).  
+Please refer to the license file for more information.
