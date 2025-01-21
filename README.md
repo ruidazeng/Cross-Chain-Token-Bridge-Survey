@@ -17,7 +17,7 @@ This repository compiles scholarly works on blockchain interoperability, token b
 9. [Rollups & Blockchain Scalability](#9-rollups--blockchain-scalability)  
 10. [Governance, Social Engineering, & Broader Ecosystem](#10-governance-social-engineering--broader-ecosystem)  
 11. [Quantum-Safe & Future-Proofing Blockchain](#11-quantum-safe--future-proofing-blockchain)  
-12. [Additional and Miscellaneous Works](#12-additional-and-miscellaneous-works) 
+12. [Additional and Miscellaneous Works](#12-additional-and-miscellaneous-works)  
 
 ---
 
@@ -25,12 +25,12 @@ This repository compiles scholarly works on blockchain interoperability, token b
 
 - **The Byzantine Generals Problem (1982)**  
   *Leslie Lamport, Robert Shostak, Marshall Pease*  
-  *[ACM Transactions on Programming Languages and Systems](https://dl.acm.org/doi/10.1145/357172.357176)*  
+  *ACM Transactions on Programming Languages and Systems*  
   A seminal paper introducing the Byzantine fault tolerance concept, outlining how distributed systems can achieve agreement despite adversarial or faulty components.
 
 - **The Latest Gossip on BFT Consensus (2018)**  
   *Ethan Buchman, Jae Kwon, Zarko Milosevic*  
-  *[arXiv](https://arxiv.org/abs/1807.04938)*  
+  *arXiv*  
   Discusses state-of-the-art Byzantine Fault Tolerance (BFT) protocols and how they can be adapted to modern blockchain use cases.
 
 ---
@@ -39,17 +39,17 @@ This repository compiles scholarly works on blockchain interoperability, token b
 
 - **Bitcoin: A Peer-to-Peer Electronic Cash System (2008)**  
   *Satoshi Nakamoto*  
-  *[Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)*  
+  *Bitcoin Whitepaper*  
   The groundbreaking proposal introducing the first decentralized cryptocurrency and establishing core blockchain primitives.
 
 - **Ethereum: A Next-Generation Smart Contract and Decentralized Application Platform (2013)**  
   *Vitalik Buterin*  
-  *[Ethereum Whitepaper](https://ethereum.org/en/whitepaper/)*  
+  *Ethereum Whitepaper*  
   Presents a Turing-complete blockchain architecture supporting smart contracts, enabling a vast range of decentralized applications.
 
 - **Monero: A Privacy-Focused Cryptocurrency (2014)**  
   *The Monero Project*  
-  *[Monero Whitepaper](https://www.getmonero.org/resources/research-lab/)*  
+  *Monero Whitepaper*  
   Focuses on enhancing user privacy and transactional anonymity via techniques such as Ring Signatures and Confidential Transactions.
 
 ---
@@ -58,22 +58,22 @@ This repository compiles scholarly works on blockchain interoperability, token b
 
 - **Tendermint: Consensus without Mining (2014)**  
   *Jae Kwon*  
-  *[GitHub](https://github.com/tendermint/tendermint)*  
+  *GitHub*  
   Introduces a BFT consensus engine using Proof of Stake for low-latency and high-throughput blockchain architectures.
 
 - **Cosmos: A Network of Distributed Ledgers (2014)**  
   *Jae Kwon, Ethan Buchman*  
-  *[GitHub](https://github.com/cosmos/cosmos-sdk)*  
+  *GitHub*  
   Proposes a hub-and-zone model for blockchain interoperability, using Tendermint as its core consensus engine.
 
 - **Solana: A New Architecture for a High-Performance Blockchain (2020)**  
   *Anatoly Yakovenko, Greg Fitzgerald, Raj Gokal, Stephen Akridge, et al.*  
-  *[Solana Whitepaper](https://solana.com/solana-whitepaper.pdf)*  
+  *Solana Whitepaper*  
   Describes a high-throughput blockchain using Proof of History for time-ordering transactions, optimizing speed and scalability.
 
 - **Scalable and Adaptively Secure Any-Trust Distributed Key Generation and All-hands Checkpointing (2023)**  
   *H. Feng, T. Mai, Q. Tang*  
-  *[arXiv](https://arxiv.org/abs/2303.05289)*  
+  *arXiv*  
   Presents a cryptographic protocol for securely generating keys in a partially trusted environment, enhancing distributed consensus and coordination.
 
 ---
@@ -82,12 +82,12 @@ This repository compiles scholarly works on blockchain interoperability, token b
 
 - **The Interblockchain Communication Protocol: An Overview (2020)**  
   *Christopher Goes*  
-  *[arXiv](https://arxiv.org/abs/2003.01629)*  
+  *arXiv*  
   Provides foundational details of the IBC protocol, enabling blockchains to exchange messages and tokens in a trust-minimized way.
 
 - **Formal Analysis of IBC Protocol (2023)**  
   *Q. Wei, X. Zhao, X.Y. Zhu, W. Zhang*  
-  *[2023 IEEE 31st International Conference](https://ieeexplore.ieee.org/document/10015698)*  
+  *2023 IEEE 31st International Conference*  
   Delivers a formal verification of the IBC protocol, identifying security assumptions and potential vulnerabilities.
 
 ---
@@ -98,27 +98,27 @@ These “Systematization of Knowledge” (SoK) and survey papers provide overvie
 
 - **SoK: Not Quite Water Under the Bridge: Review of Cross-Chain Bridge Hacks (2023)**  
   *Sung-Shine Lee, Alexandr Murashkin, Martin Derka, Jan Gorzny*  
-  *[IEEE International Conference on Blockchain and Cryptocurrency](https://ieeexplore.ieee.org/document/10123456)*  
+  *IEEE International Conference on Blockchain and Cryptocurrency*  
   Comprehensive survey of major cross-chain bridge hacks, analyzing exploited vulnerabilities and lessons learned.
 
 - **SoK: Security of Cross-chain Bridges: Attack Surfaces, Defenses, and Open Problems (2023)**  
   *Mengya Zhang, Xiaokuan Zhang, Josh Barbee, Yinqian Zhang, Zhiqiang Lin*  
-  *[arXiv](https://arxiv.org/abs/2303.01453)*  
+  *arXiv*  
   Systematizes known attacks on cross-chain bridges, highlighting design flaws and exploring potential defense strategies.
 
 - **SoK: Cross-Chain Bridging Architectural Design Flaws and Mitigations (2023)**  
   *Jakob Svennevik Notland, Jinguye Li, Mariusz Nowostawski, Peter Halland Haro*  
-  *[arXiv](https://arxiv.org/abs/2304.06256)*  
+  *arXiv*  
   Analyzes core architectural flaws in bridging systems and presents mitigation approaches for improved security.
 
 - **SoK: Not Quite Water Under the Bridge: Review of Cross-Chain Bridge Hacks (2023)**  
   *A. Augusto, R. Belchior, M. Correia, et al.*  
-  *[TechRxiv](https://www.techrxiv.org/articles/preprint/Not_Quite_Water_Under_the_Bridge_A_Review_of_Cross-Chain_Bridge_Hacks/14684156)*  
+  *TechRxiv*  
   Another survey focusing on real-world cross-chain exploits, offering a taxonomy of hacks across different bridging designs.
 
 - **SoK: Security and Privacy of Blockchain Interoperability (2024)**  
   *A. Augusto, R. Belchior, M. Correia, et al.*  
-  *[IEEE Symposium on Security and Privacy](https://ieeexplore.ieee.org/document/10152956)*  
+  *IEEE Symposium on Security and Privacy*  
   Explores security and privacy implications of interoperability protocols, highlighting both known vulnerabilities and possible mitigations.
 
 ---
@@ -129,38 +129,43 @@ These works dive deeper into specific security vulnerabilities, attack mechanism
 
 - **SmartAxe: Detecting Cross-Chain Vulnerabilities in Bridge Smart Contracts via Fine-Grained Static Analysis (2023)**  
   *Zeqin Liao, Yuhong Nan, Henglong Liang, et al.*  
-  *[arXiv](https://arxiv.org/abs/2303.09542)*  
+  *arXiv*  
   Introduces a tool for static analysis of smart contracts, focusing on discovering cross-chain vulnerabilities.
 
 - **Safeguarding Blockchain Ecosystem: Understanding and Detecting Attack Transactions on Cross-chain Bridges (2023)**  
   *Jiajing Wu, Kaixin Lin, Dan Lin, et al.*  
-  *[arXiv](https://arxiv.org/abs/2305.12389)*  
+  *arXiv*  
   Proposes detection models for malicious transactions across multiple blockchain networks.
 
 - **A Comprehensive Overview of Security Vulnerability Penetration Methods in Blockchain Cross-Chain Bridges (2023)**  
   *Q. Zhao, Y. Wang, B. Yang, et al.*  
-  *[TechRxiv](https://www.techrxiv.org/articles/preprint/A_Comprehensive_Overview_of_Security_Vulnerability_Penetration_Methods_in_Blockchain_Cross-Chain_Bridges/14767891)*  
+  *TechRxiv*  
   Systematically catalogs known penetration methods targeting cross-chain protocols and outlines their root causes.
 
 - **Count of Monte Crypto: Accounting-Based Defenses for Cross-Chain Bridges (2024)**  
   *E. Liu, E. Luo, J.C. Yan, K. Izhikevich, S. Grant*  
-  *[arXiv](https://arxiv.org/abs/2401.00895)*  
+  *arXiv*  
   Proposes an accounting-based mechanism to reduce the impact of malicious validators or signers in cross-chain operations.
 
 - **Detecting Fake Deposit Attacks on Cross-Chain Bridges from a Network Perspective (2024)**  
   *K. Lin, D. Lin, Z. Zheng, Y. Tan, et al.*  
-  *[2024 IEEE International Conference on Blockchain](https://ieeexplore.ieee.org/document/10214567)*  
+  *2024 IEEE International Conference on Blockchain*  
   Focuses on detecting “fake deposit” attempts by analyzing transaction networks and bridging processes.
 
 - **Intelligent Blockchain-Based Attack Detection Framework for Cross-Chain Transactions (2024)**  
   *S. Madhuri, N. Vadlamani*  
-  *[Multimedia Tools and Applications](https://link.springer.com/article/10.1007/s11042-024-12678-5)*  
+  *Multimedia Tools and Applications*  
   Proposes an AI-driven approach to identifying malicious cross-chain interactions in near real-time.
 
 - **CONNECTOR: Enhancing the Traceability of Decentralized Bridge Applications via Automatic Cross-chain Transaction Association (2024)**  
   *D. Lin, J. Wu, Y. Su, Z. Zheng, Y. Nan, Z. Zheng*  
-  *[arXiv](https://arxiv.org/abs/2401.01547)*  
+  *arXiv*  
   Describes an automated system to correlate cross-chain transactions, improving forensic capabilities and accountability.
+
+- **Cross-Chain Bridges: Attack Taxonomy, Defenses, and Open Problems (2024)**  
+  *M. Zhang, X. Zhang, Y. Zhang, Z. Lin*  
+  *TechRxiv*  
+  Presents a taxonomy of known attacks, mapping them to potential defenses, while outlining unsolved research challenges.
 
 ---
 
@@ -170,62 +175,62 @@ Focuses on architectures, designs, and specific implementations of cross-chain b
 
 - **Hephaestus: Modeling, Analysis, and Performance Evaluation of Cross-Chain Transactions (2023)**  
   *R. Belchior, P. Somogyvari, et al.*  
-  *[IEEE Transactions](https://ieeexplore.ieee.org/document/10112345)*  
+  *IEEE Transactions*  
   Provides a performance-oriented model for multi-chain transactions and bridging.
 
 - **Arguably Adequate Aqueduct Algorithm: Crossing A Bridge-Less Block-Chain Chasm (2023)**  
   *R. Kashyap*  
-  *[Finance Research Letters](https://www.journals.elsevier.com/finance-research-letters)*  
+  *Finance Research Letters*  
   Proposes an algorithmic approach to cross-chain token movement without traditional bridge infrastructure.
 
 - **Enhancing Trustworthiness and Interoperability of Electronic Voting Systems Through Blockchain Bridges (2023)**  
   *B. Rexha, V. Neziri, R. Dervishi*  
-  *[HighTech and Innovation Journal](https://www.htijournal.com/)*  
+  *HighTech and Innovation Journal*  
   Demonstrates how bridging can support secure e-voting, ensuring trust and verifiability across multiple ledgers.
 
 - **Arbitrary Message Passing Across Blockchains (2023)**  
   *J. Li, Z. Wu*  
-  *[SSRN](https://www.ssrn.com/abstract=1234567)*  
+  *SSRN*  
   Proposes a notary-based or multi-sig-based approach to general-purpose message passing between disparate chains.
 
 - **Cross-chain General Message Passing Protocol via Eternal Bridge (2023)**  
   *A. Mitrović, M. Dalčeković, D. Čapko*  
-  *[2023 31st International Conference](https://ieeexplore.ieee.org/document/10256789)*  
+  *2023 31st International Conference*  
   Introduces a “single eternal bridge” concept enabling generalized message passing with minimal overhead.
 
 - **NFT Cross-Chain Transfer Method Under the Notary Group Scheme (2023)**  
   *X. Niu, L. Kong, F. Jin, et al.*  
-  *[2023 26th International Conference](https://ieeexplore.ieee.org/document/10223456)*  
+  *2023 26th International Conference*  
   Details a notary-based approach for NFT cross-chain movement with security guarantees.
 
 - **Bridging BRC-20 to Ethereum (2024)**  
   *Q. Wang, G. Yu, S. Chen*  
-  *[2024 IEEE International Conference on Blockchain](https://ieeexplore.ieee.org/document/10298765)*  
+  *2024 IEEE International Conference on Blockchain*  
   Explores bridging tokens from Bitcoin-based BRC-20 standard to Ethereum, detailing design and security trade-offs.
 
 - **Protocol for Unifying Cross-Chain Liquidity on Polkadot (2024)**  
   *V. Valaštín, D. Morháč, K. Košťál, I. Kotuliak*  
-  *[Frontiers in Blockchain](https://www.frontiersin.org/articles/10.3389/fbloc.2024.123456/full)*  
+  *Frontiers in Blockchain*  
   Presents a mechanism to unify liquidity across multiple parachains within the Polkadot ecosystem.
 
 - **Blockchain Cross-Chain Protocol Based on Improved Hashed Time-Locked Contract (2024)**  
   *J. Li, W. Zhao*  
-  *[Cluster Computing](https://link.springer.com/article/10.1007/s10586-024-13289-y)*  
+  *Cluster Computing*  
   Describes an enhanced HTLC scheme for secure cross-chain swaps.
 
 - **Efficient and Universally Accessible Cross-Chain Options Without Upfront Holder Collateral (2024)**  
   *Z. Peng, Y. Xue, J. Liu*  
-  *[arXiv](https://arxiv.org/abs/2401.02789)*  
+  *arXiv*  
   Provides a model for cross-chain financial derivatives (options) that lowers collateral requirements.
 
 - **A Multi-Party, Multi-Blockchain Atomic Swap Protocol with Universal Adaptor Secret (2024)**  
   *S. You, A. Joshi, A. Kuehlkamp, J. Nabrzyski*  
-  *[arXiv](https://arxiv.org/abs/2401.03789)*  
+  *arXiv*  
   Introduces multi-blockchain atomic swap mechanics, leveraging adaptor signatures.
 
 - **Seamlessly Transferring Assets through Layer-0 Bridges: An Empirical Analysis of Stargate Bridge's Architecture and Dynamics (2024)**  
   *C. Huang, T. Yan, C.J. Tessone*  
-  *[Companion Proceedings of the ACM](https://dl.acm.org/doi/10.1145/3456789)*  
+  *Companion Proceedings of the ACM*  
   An empirical study of Stargate, focusing on bridging at the “Layer-0” level, enabling cross-chain liquidity.
 
 ---
@@ -236,17 +241,17 @@ These works discuss frameworks and proposed standards for improving blockchain i
 
 - **Towards a Common Standard Framework for Blockchain Interoperability - A Position Paper (2023)**  
   *R. Belchior, S. Scuri, I. Mihaiu, N. Nunes, T. Hardjono*  
-  *[Academia.edu](https://www.academia.edu/12345678)*  
+  *Academia.edu*  
   Outlines a standardized approach for connecting diverse blockchains, highlighting open challenges.
 
 - **A Framework to Evaluate Blockchain Interoperability Solutions (2023)**  
-  *R. Belchior,*I. Mihaiu, S. Scuri, N. Nunes, T. Hardjono*  
-  *[TechRxiv](https://www.techrxiv.org/articles/preprint/A_Framework_to_Evaluate_Blockchain_Interoperability_Solutions/15123268)*  
+  *R. Belchior, I. Mihaiu, S. Scuri, N. Nunes, T. Hardjono*  
+  *TechRxiv*  
   Proposes metrics and criteria for objectively assessing existing interoperability protocols.
 
 - **A Brief History of Blockchain Interoperability (2024)**  
   *R. Belchior, J. Süßenguth, Q. Feng, T. Hardjono, et al.*  
-  *[Communications of the ACM](https://cacm.acm.org/magazines/2024/1)*  
+  *Communications of the ACM*  
   Traces the evolution of interoperability solutions, charting key milestones and future directions.
 
 ---
@@ -257,22 +262,22 @@ Rollups represent a crucial strategy for scaling smart contract platforms. The f
 
 - **SoK: Compression in Rollups (2024)**  
   *R. Palakkal, J. Gorzny, M. Derka*  
-  *[2024 IEEE International Conference on Blockchain](https://ieeexplore.ieee.org/document/10312345)*  
+  *2024 IEEE International Conference on Blockchain*  
   Systematizes compression techniques to optimize rollups, focusing on on-chain data reduction.
 
 - **Requirements Engineering Challenges for Blockchain Rollups (2024)**  
   *J. Gorzny, M. Derka*  
-  *[2024 IEEE 32nd International Conference](https://ieeexplore.ieee.org/document/10412389)*  
+  *2024 IEEE 32nd International Conference*  
   Examines key challenges in defining, designing, and implementing rollup-based solutions.
 
 - **A Rollup Comparison Framework (2024)**  
   *J. Gorzny, M. Derka*  
-  *[arXiv](https://arxiv.org/abs/2402.01478)*  
+  *arXiv*  
   Develops a methodology to compare different rollup designs, evaluating cost, security, and trust assumptions.
 
 - **Temporarily Restricting Solidity Smart Contract Interactions (2024)**  
   *V. Callens, Z. Meghji, J. Gorzny*  
-  *[arXiv](https://arxiv.org/abs/2402.02059)*  
+  *arXiv*  
   Explores a new mechanism to selectively freeze contract interactions, potentially beneficial in the context of rollups and bridging.
 
 ---
@@ -283,23 +288,28 @@ Focuses on socio-technical aspects such as governance vulnerabilities, social en
 
 - **A Tale of Two Currencies: Cash and Crypto (2023)**  
   *R. Kashyap*  
-  *[arXiv](https://arxiv.org/abs/2304.12345)*  
+  *arXiv*  
   Discusses economic and policy-related implications of simultaneous fiat and cryptocurrency adoption.
 
 - **The Venue Menu: DEX Might Replace CEX, But Both are No Match for SEX (2023)**  
   *R. Kashyap*  
-  *[SSRN](https://www.ssrn.com/abstract=4321234)*  
+  *SSRN*  
   Explores how decentralized exchanges compare to centralized ones, introducing the concept of “semi-centralized” exchange.
 
 - **Pig Butchering in Cybersecurity: A Modern Social Engineering Threat (2024)**  
   *S.L. Burton*  
-  *[SocioEconomic Challenges (SEC)](https://www.sec-journal.com/)*  
+  *SocioEconomic Challenges (SEC)*  
   Highlights a rising form of online scam (“pig butchering”), relevant to how attackers exploit cryptocurrency ecosystems.
 
 - **Vulnerabilities That Arise from Poor Governance in Distributed Ledger Technologies (2024)**  
   *A.M. Kharman, W. Sanders*  
-  *[arXiv](https://arxiv.org/abs/2403.01567)*  
+  *arXiv*  
   Investigates governance weaknesses in blockchain protocols and how they create security risks.
+
+- **Enhancing Trustworthiness and Interoperability of Electronic Voting Systems Through Blockchain Bridges (2023)**  
+  *B. Rexha, V. Neziri, R. Dervishi*  
+  *(HighTech and Innovation Journal)*  
+  (Also listed in “Cross-Chain Bridge Protocols”) Demonstrates bridging’s potential to improve e-voting trust, ensuring tamper-evident election records.
 
 ---
 
@@ -307,7 +317,7 @@ Focuses on socio-technical aspects such as governance vulnerabilities, social en
 
 - **Futureproofing Blockchain & Cryptocurrencies Against Growing Vulnerabilities & Q-Day Threat with Quantum-Safe Ledger Technology (QLT) (2024)**  
   *F. Raheman*  
-  *[Journal of Computer and Communications](https://www.scirp.org/journal/jcc)*  
+  *Journal of Computer and Communications*  
   Explores cryptographic techniques to protect blockchains from quantum attacks, proposing a long-term “quantum-safe” architecture.
 
 ---
@@ -316,12 +326,12 @@ Focuses on socio-technical aspects such as governance vulnerabilities, social en
 
 - **The Design Principle of Blockchain: An Initiative for the SoK of SoKs (2023)**  
   *L.S. Zhang*  
-  *[arXiv](https://arxiv.org/abs/2304.05432)*  
+  *arXiv*  
   Broadly discusses design principles for blockchains, positioning them for standardization efforts and future SoK papers.
 
 - **LAOS: Vision for a Scalable, Truly Non-Custodial, Dynamic NFT Protocol with Universal Minting & Evolution (2023)**  
   *A. Siniscalchi, T. Mateos, A. Evans*  
-  *[Gorengine](https://gorengine.org/papers/laos)*  
+  *Gorengine*  
   Proposes an advanced NFT protocol with dynamic features and cross-chain interoperability in mind.
 
 ---
