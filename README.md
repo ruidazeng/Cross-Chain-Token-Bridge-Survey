@@ -17,7 +17,8 @@ This repository compiles scholarly works on blockchain interoperability, token b
 9. [Rollups & Blockchain Scalability](#9-rollups--blockchain-scalability)  
 10. [Governance, Social Engineering, & Broader Ecosystem](#10-governance-social-engineering--broader-ecosystem)  
 11. [Quantum-Safe & Future-Proofing Blockchain](#11-quantum-safe--future-proofing-blockchain)  
-12. [Additional and Miscellaneous Works](#12-additional-and-miscellaneous-works)  
+12. [Additional and Miscellaneous Works](#12-additional-and-miscellaneous-works)
+13. [Older Works](#13-older-works)
 
 ---
 
@@ -335,6 +336,93 @@ Focuses on socio-technical aspects such as governance vulnerabilities, social en
   Proposes an advanced NFT protocol with dynamic features and cross-chain interoperability in mind.
 
 ---
+
+## 13. OLDER WORKS:
+
+- **Ethereum: A secure decentralised generalised transaction ledger (2014)**  
+  *Gavin Wood*  
+  *Ethereum Project Yellow Paper*  
+  Describes Ethereum's architecture, supporting decentralized applications and smart contracts.  
+
+- **An introduction to decentralized finance (DeFi) (2021)**  
+  *J.R. Jensen, V. von Wachter, O. Ross*  
+  *Complex Systems Informatics Model Quarterly*  
+  Examines the foundations and components of decentralized finance in the blockchain ecosystem.
+
+- **SoK: Layer-two blockchain protocols (2019)**  
+  *L. Gudgeon, P. Moreno-Sanchez, S. Roos, P. McCorry, A. Gervais*  
+  *Cryptology ePrint Archive*  
+  Reviews various layer-two protocols aimed at scaling blockchain systems.
+
+- **Commit-chains: Secure, scalable off-chain payments (2018)**  
+  *R. Khalil, A. Zamyatin, G. Felley, P. Moreno-Sanchez, A. Gervais*  
+  *Cryptology ePrint Archive*  
+  Proposes commit-chains as an off-chain solution for secure and scalable blockchain transactions.
+
+- **Plasma: Scalable autonomous smart contracts (2017)**  
+  *J. Poon, V. Buterin*  
+  *Plasma.io*  
+  Details a framework for scalable smart contracts through hierarchical blockchain systems.
+
+- **Proof-of-work sidechains (2019)**  
+  *A. Kiayias, D. Zindros*  
+  *Lecture Notes in Computer Science (Springer)*  
+  Explores the concept and construction of proof-of-work sidechains for enhanced interoperability.
+
+- **Exploring sybil and double-spending risks in blockchain systems (2021)**  
+  *M. Iqbal, R. Matulevicius*  
+  *IEEE Access*  
+  Investigates critical risks in blockchain systems, focusing on sybil attacks and double-spending.
+
+- **Blockchains have a ‘bridge’ problem, and hackers know it (2022)**  
+  *L.H. Newman*  
+  *Wired*  
+  Highlights security vulnerabilities in blockchain bridges and their exploitation by hackers.
+
+- **ERC-20 token standard (2015)**  
+  *F. Vogelsteller, V. Buterin*  
+  *GitHub/Ethereum EIPs*  
+  Establishes the widely adopted ERC-20 token standard for fungible tokens on Ethereum.
+
+- **ERC-721 token standard (2018)**  
+  *W. Entriken, D. Shirley, J. Evans, N. Sachs*  
+  *GitHub/Ethereum EIPs*  
+  Defines the ERC-721 standard, enabling the creation of non-fungible tokens (NFTs).
+
+- **Blockchain oracles: State-of-the-art and research directions (2022)**  
+  *S.K. Ezzat, Y.N.M. Saleh, A.A. Abdel-Hamid*  
+  *IEEE Access*  
+  Surveys blockchain oracle designs and highlights future research directions.
+
+- **Trustless, privacy-preserving blockchain bridges (2021)**  
+  *D. Stone*  
+  *arXiv*  
+  Explores techniques for building blockchain bridges that prioritize trustlessness and privacy.
+
+- **Blockchain is watching you: Profiling and deanonymizing Ethereum users (2021)**  
+  *F. Béres, I.A. Seres, A.A. Benczúr, M. Quintyne-Collins*  
+  *IEEE Decentralized Applications and Infrastructures (DAPPS)*  
+  Investigates methods to profile and deanonymize Ethereum users based on blockchain data.
+
+- **How to get Ethereum encoded function signatures (2018)**  
+  *H. Moriya*  
+  *Medium*  
+  Explains the technical process for extracting function signatures in Ethereum contracts.
+
+- **Contract ABI specification (2021)**  
+  *Solidity Team*  
+  *Solidity Documentation*  
+  Official specification for Ethereum’s Application Binary Interface (ABI).
+
+- **Keccak (2015)**  
+  *G. Bertoni, J. Daemen, M. Peeters, G. Van Assche*  
+  *IACR Cryptology ePrint Archive*  
+  Details the Keccak cryptographic hash function, the basis for SHA-3.
+
+- **Handbook of Applied Cryptography (1996)**  
+  *A. Menezes, P.C. van Oorschot, S.A. Vanstone*  
+  *CRC Press*  
+  Comprehensive reference book on applied cryptography and its applications.
 
 ## License
 
