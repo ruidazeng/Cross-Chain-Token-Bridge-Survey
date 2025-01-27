@@ -424,6 +424,95 @@ Focuses on socio-technical aspects such as governance vulnerabilities, social en
   *CRC Press*  
   Comprehensive reference book on applied cryptography and its applications.
 
+- **The Initial Analysis of the Poly Network Attack (2021)**  
+  *Yufeng Hu, Siwei Wu, Lei Wu, Yajin Zhou*  
+  *Medium*  
+  A preliminary examination of the Poly Network attack and its implications.
+
+- **The Further Analysis of the Poly Network Attack (2021)**  
+  *Yufeng Hu, Siwei Wu, Lei Wu, Yajin Zhou*  
+  *Medium*  
+  An extended analysis providing further insights into the Poly Network attack.
+
+- **Polygon Double-Spend Bugfix Review - $2M Bounty (2021)**  
+  *Gerhard Wagner, Immunefi*  
+  *Medium*  
+  Review of the Polygon double-spend vulnerability and its resolution.
+
+- **Verification of a Merkle Patricia Tree Library Using F (2021)**  
+  *Sota Sato, Ryotaro Banno, Jun Furuse, Kohei Suenaga, Atsushi Igarashi*  
+  *CoRR*  
+  Verification of a Merkle Patricia tree library using formal methods.
+
+- **Breaking Down the Meter Hack (2022)**  
+  *Collin Adams*  
+  *ChainSafe Blog*  
+  Analysis of the Meter.io hack, detailing its vulnerabilities and consequences.
+
+- **How $323M in Crypto Was Stolen from a Blockchain Bridge Called Wormhole (2022)**  
+  *Dan Goodin*  
+  *Ars Technica*  
+  Examination of the Wormhole bridge attack and its impact.
+
+- **pNetwork Post Mortem: pBTC-on-BSC Exploit (2021)**  
+  *pNetwork*  
+  *Medium*  
+  Post-mortem analysis of the pBTC-on-BSC exploit.
+
+- **Space/Time Trade-Offs in Hash Coding with Allowable Errors (1970)**  
+  *Burton H. Bloom*  
+  *Communications of the ACM*  
+  Seminal paper introducing the concept of Bloom filters.
+
+- **A Survey of Distributed Consensus Protocols for Blockchain Networks (2020)**  
+  *Yang Xiao, Ning Zhang, Wenjing Lou, Y. Thomas Hou*  
+  *IEEE Communications Surveys & Tutorials*  
+  Comprehensive survey of consensus protocols used in blockchain networks.
+
+- **Fundamentals of Smart Contract Security (2019)**  
+  *Richard Ma, Jan Gorzny, Edward Zulkoski, Kacper Bak, Olga V. Mack*  
+  *Momentum Press*  
+  Overview of security principles and risks associated with smart contracts.
+
+- **Crypto51 (n.d.)**  
+  *Crypto51*  
+  A resource for evaluating the cost and feasibility of 51% attacks on blockchains.
+
+- **EIP-2612: Permit — 712-Signed Approvals (2020)**  
+  *Martin Lundfall*  
+  *Ethereum Improvement Proposals (EIPs)*  
+  Specification for EIP-2612 enabling off-chain approvals for token transfers.
+
+- **Phantom Functions and the Billion-Dollar No-Op (2022)**  
+  *Yannis Smaragdakis*  
+  *Dedaub Blog*  
+  Analysis of phantom functions and their costly implications for Ethereum smart contracts.
+
+- **Compact Multisignatures for Smaller Blockchains (2018)**  
+  *Dan Boneh, Manu Drijvers, Gregory Neven*  
+  *Advances in Cryptology - ASIACRYPT 2018*  
+  Proposal for multisignature schemes optimized for blockchain efficiency.
+
+- **Post-Mortem — Polygon Bridge Vulnerability (2021)**  
+  *Suhail Gangji*  
+  *Medium*  
+  Post-mortem on the Polygon bridge vulnerability and the steps taken to address it.
+
+- **SoK: Validating Bridges as a Scaling Solution for Blockchains (2021)**  
+  *Patrick McCorry, Chris Buckland, Bennet Yee, Dawn Song*  
+  *Cryptology ePrint Archive*  
+  Comprehensive overview of blockchain bridge security and validation methods.
+
+- **L2Bridge Risk Framework (2022)**  
+  *Bartek Kiepuszewski*  
+  *L2Beat Governance*  
+  Framework for assessing risks associated with Layer-2 blockchain bridges.
+
+- **SoK: Communication Across Distributed Ledgers (2019)**  
+  *Alexei Zamyatin, Mustafa Al-Bassam, Dionysis Zindros, Eleftherios Kokoris-Kogias, Pedro Moreno-Sanchez, Aggelos Kiayias, William J. Knottenbelt*  
+  *Cryptology ePrint Archive*  
+  Study on interoperability and communication methods for distributed ledger technologies.
+
 ## License
 
 This repository is licensed under the [MIT License](LICENSE).  
